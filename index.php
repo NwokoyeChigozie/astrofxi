@@ -300,7 +300,7 @@ if(isset($_SESSION['id'])){
     <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="stylesheets/owl.carousel.min.css">
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <title>AstroFXC</title>
+    <title>AstroFXI</title>
 
 </head>
 
@@ -1010,7 +1010,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="copyright"> <span style="color: #dae7ed;font-size: 10px;">249 GROSVENOR STREET, MAYFAIR, LONDON, ENGLAND, W1K 3HP
                         <br>
                         <a target="_blank" href="https://find-and-update.company-information.service.gov.uk/company/08939022">AstroFXC, 08939022</a> </span> <br>
-                    <p>© 2017 AstroFXC Limited. All Rights Reserved. </p>
+                    <p>© 2017 AstroFXI Limited. All Rights Reserved. </p>
                 </div>
             </div>
         </div>

@@ -285,7 +285,7 @@ if(isset($_SESSION['id'])){
     <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="stylesheets/owl.carousel.min.css">
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <title>AstroFXC</title>
+    <title>AstroFXI</title>
 
 </head>
 
@@ -966,7 +966,7 @@ s0.parentNode.insertBefore(s1,s0);
                     <div class="col-md-4 col-sm-5 col-xs-6 ">
                         <div class="social-icon">
                             <span>Follow Us</span>
-                            <a id="facebook" href="https://www.facebook.com/astrofxc/">
+                            <a id="facebook" href="https://www.facebook.com/astrofxi/">
                                 <svg viewBox="0 0 169.17 169.17">
                                     <use xlink:href="#facebook"></use>
                                 </svg>
@@ -991,8 +991,8 @@ s0.parentNode.insertBefore(s1,s0);
                 </div>
                 <div class="copyright"> <span style="color: #dae7ed;font-size: 10px;">49 Grosvenor Street, Mayfair, London, England, W1K 3HP
                         <br>
-                        <a target="_blank" href="https://find-and-update.company-information.service.gov.uk/company/08939022">AstroFXC, 08939022</a> </span> <br>
-                    <p>© 2020 AstroFXC Limited. All Rights Reserved. </p>
+                        <a target="_blank" href="https://find-and-update.company-information.service.gov.uk/company/08939022">AstroFXI, 08939022</a> </span> <br>
+                    <p>© 2020 AstroFXI Limited. All Rights Reserved. </p>
                 </div>
             </div>
         </div>

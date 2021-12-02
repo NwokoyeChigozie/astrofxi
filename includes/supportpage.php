@@ -51,7 +51,7 @@
                 <svg class="plus-icon" viewBox="0 0 10.38 10.38">
                   <use xlink:href="#plusIcon"></use>
                 </svg>
-                </span> <strong>Who is AstroFXC?</strong> </div>
+                </span> <strong>Who is AstroFXI?</strong> </div>
               <div class="question-item__answer" style="display: block;"> AstroFX Limited is a renowned broker and we pride in being the best in the industry. We’re here to help Forex traders find the best trading conditions in the Forex market.<br>
                 We work tirelessly to ensure that every trader's investment brings about steady return. </div>
             </div>
@@ -63,7 +63,7 @@
                 <svg class="plus-icon" viewBox="0 0 10.38 10.38">
                   <use xlink:href="#plusIcon"></use>
                 </svg>
-                </span> <strong>Is AstroFXC regulated?</strong> </div>
+                </span> <strong>Is AstroFXI regulated?</strong> </div>
               <div class="question-item__answer"> Yes, AstroFX is a regulated broker. A trustworthy broker properly regulated by the major authorities. This includes a license of the British Financial Conduct Authority (FCA). <br>
                  </div>
             </div>
